@@ -1,11 +1,3 @@
-/*
-Caro professor. 
-Fiz a atividade pelo VS code, pois ja usava outras linguagens nele, tenho mais familiaridade e já tenho configurado... Tambem, porque, o intellij trava um pouco no meu notebook. 
-Espero que compreenda... 
-Obrigrada!
-*/
-package A3;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
